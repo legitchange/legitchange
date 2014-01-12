@@ -1,7 +1,6 @@
-FooCoin (FOO)
-===========
+LegitChange (LGT)
+=================
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
-
+Foster legitimate commerce when government has failed to protect.
 
 Scrypt Hashcash PoW Template
